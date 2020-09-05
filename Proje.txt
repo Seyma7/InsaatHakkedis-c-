@@ -1,0 +1,8 @@
+1	LadinEvleri	A	F	K
+2	AcelyaEvleri	B	G	L
+3	CinarEvleri	C	H	M
+5	ServiEvleri	E	J	O
+6	PinokyonunBurnuTown	P	R	S
+7	KumZambagiTown	T	U	V
+8	SarikumLand	X	Y	Z
+9	PapatyaSitesi	AA	BB	CC

@@ -1,0 +1,9 @@
+1	Gazbeton	kg	12	Ytong
+2	Kum	kg	13	Pina
+3	Cakil	kg	14	Yapi
+4	Micir	kg	15	Keklik
+5	Demir	kg	16	Hausport
+6	Cimento	kg	17	Cimsa
+7	Betopan	kg	18	Tepe
+8	Fayans	kg	19	Ardex
+9	Seramik	kg	24	BTM
